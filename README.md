@@ -44,4 +44,4 @@ Make sure MySQL is running and configured properly.
 ---
 
 ## 👨‍💻 Author
-Your Name
+Dhrumi Shah
